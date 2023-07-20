@@ -27,14 +27,6 @@ To reproduce the analyses, first, clone this repository. Make sure you have the 
 
 All findings have been consolidated in the COVID-19 Severity Related Database (http://covid.haoran.pub/), a web-based platform that aims to facilitate further research and potential therapeutic developments.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/CHR991004/COVID-19_severity/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/CHR991004/COVID-19_severity/blob/main/LICENSE.md) file for details
-
 ## Contact
 
 For any questions or concerns, please open an issue in this repository, or contact the maintainers directly.
